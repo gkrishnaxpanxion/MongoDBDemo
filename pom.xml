@@ -37,5 +37,14 @@
 			</plugin>
 		</plugins>
 	</build>
-
+<distributionManagement>
+		<repository>
+			<id>spring-snapshots</id>
+			<name>Spring Snapshots</name>
+			<url>https://github.com/gkrishnaxpanxion/MongoDBDemo/tree/master/src/main</url>
+			<snapshots>
+				<enabled>true</enabled>
+			</snapshots>
+		</repository>
+	</distributionManagement>
 </project>
