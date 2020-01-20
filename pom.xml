@@ -40,13 +40,13 @@
 	<repositories>
 		<repository>
 			<id>spring1</id>
-			<url>http://github.com/gkrishnaxpanxion/MongoDBDemo</url>
+			<url>https://github.com/gkrishnaxpanxion/MongoDBDemo</url>
 		</repository>
 	</repositories>
 <distributionManagement>
 		<repository>
 			<id>spring2</id>
-			<url>http://github.com/gkrishnaxpanxion/MongoDBDemo</url>
+			<url>https://github.com/gkrishnaxpanxion/MongoDBDemo</url>
 		</repository>
 	</distributionManagement>
 </project>
