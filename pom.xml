@@ -37,10 +37,5 @@
 			</plugin>
 		</plugins>
 	</build>
-<distributionManagement>
-		<repository>
-			<id>spring</id>
-			<url>http://github.com/gkrishnaxpanxion/MongoDBDemo</url>
-		</repository>
-	</distributionManagement>
+
 </project>
